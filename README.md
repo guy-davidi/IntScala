@@ -39,13 +39,13 @@ To compile and run the application, you need the following installed on your sys
 
 If you haven't already installed OpenJFX, follow these steps:
 
-1. Update your package repository:
+Update your package repository:
 
 ```
   sudo apt update
   sudo apt install openjfx
 ```
-2. Running the Application
+### Running the Application
 Clone this repository to your local machine:
 ```
   git clone https://github.com/yourusername/task-manager-scala.git
