@@ -8,7 +8,6 @@
   - [Installing OpenJFX](#installing-openjfx)
   - [Running the Application](#running-the-application)
 - [Usage](#usage)
-- [Built With](#built-with)
 - [Author](#author)
 - [License](#license)
 
