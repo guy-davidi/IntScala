@@ -41,26 +41,26 @@ If you haven't already installed OpenJFX, follow these steps:
 
 1. Update your package repository:
 
-    ```
+```
   sudo apt update
   sudo apt install openjfx
-   ```
+```
 2. Running the Application
-  - Clone this repository to your local machine:
+Clone this repository to your local machine:
 ```
-git clone https://github.com/yourusername/task-manager-scala.git
+  git clone https://github.com/yourusername/task-manager-scala.git
 ```
-  - Navigate to the project directory:
+Navigate to the project directory:
 ```
-cd task-manager-scala
+  cd task-manager-scala
 ```
-  - Compile the Scala code:
+Compile the Scala code:
 ```
-scalac TaskManager.scala
+  scalac TaskManager.scala
 ```
-- Run the application:
+Run the application:
 ```
-scala TaskManager
+  scala TaskManager
 ```
 
 ## Usage
