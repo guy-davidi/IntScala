@@ -47,7 +47,7 @@ Update your package repository:
 ### Running the Application
 Clone this repository to your local machine:
 ```
-  git clone https://github.com/yourusername/task-manager-scala.git
+  git clone https://github.com/guy-davidi/task-manager-scala.git
 ```
 Navigate to the project directory:
 ```
