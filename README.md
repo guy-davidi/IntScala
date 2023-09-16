@@ -11,7 +11,6 @@
 - [Built With](#built-with)
 - [Author](#author)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
